@@ -9,7 +9,7 @@ author: LYBB
 street_address: 
 city: Ho Chi Minh
 state: 
-zip_code: 70000
+zip_code: 700000
 country: Viet Nam
 phone: (+84) 907 440 196
 
@@ -19,15 +19,15 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/lybb0196
+github_url: https://github.com/lyntm
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://www.instagram.com/lybb_ntm/
 linkedin_url: https://www.linkedin.com/in/lybb-510300158/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/Lybb0196
 
 # build settings
 markdown: kramdown

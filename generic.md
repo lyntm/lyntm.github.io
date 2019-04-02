@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Generic
-description: Lorem ipsum dolor est
+description: Have you ever wondered what made yourself so different?
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Respect your friends' feelings and recognize everything in an open perspective. So I'm an open-minded person: I have a fairly relaxed and independent mindset in refining opinions to reach the final conclusion instead of relying on just what others say. I'm not the type to "judge a book through the cover" in any situation I believe true honesty will lead me to the right choice.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I can be a person who possesses many skills but convincing others with complete lies is not something I can do. For situations where I absolutely cannot use the truth, I always choose to not say anything silently.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+One of the salient features is also my negative habit: it takes me too much effort and time to think about a problem sometimes that can lead me to a world full of frustration. Sometimes I analyze too much too deeply into a problem that makes me nervous, which sometimes leads me to no results at all.
+
+I often have sarcastic judgments, but sometimes I don't realize it myself. But people close to me can sometimes be humiliated by their humor, which means they get too much chaos, which means that when I'm overjoyed I often don't control the irony in my sentences.
