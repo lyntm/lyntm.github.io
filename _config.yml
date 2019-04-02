@@ -1,0 +1,36 @@
+# site settings
+title: Portfolio
+subtitle: by LYBB
+email: maily27196@gmail.com
+description: A portfolio site template designed by Lybb<br /> and released on 2019.
+baseurl: "/lyntm.github.io"
+url: "lyntm.github.io"
+author: LYBB
+street_address: 
+city: Ho Chi Minh
+state: 
+zip_code: 70000
+country: Viet Nam
+phone: (+84) 907 440 196
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/lybb_ntm/
+linkedin_url: https://www.linkedin.com/in/lybb-510300158/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
